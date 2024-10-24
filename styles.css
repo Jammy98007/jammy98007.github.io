@@ -1,0 +1,32 @@
+/*
+Colour Pallette
+    #564787
+    #DBCBD8
+    #F2FDFF
+    #9AD4D6
+    #101935
+*/
+
+* {
+    margin: 0;
+}
+
+html {
+    background-color: #F2FDFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    background-color: #DBCBD8;
+    text-align: center;
+}
+
+ul {
+    padding-left: 1rem;
+    list-style-type: "\21D2";
+    /* background-color: #9AD4D6; */
+}
+
+div ul {
+    background-image: linear-gradient(0.875turn, #564787, #9AD4D6);
+}
